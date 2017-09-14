@@ -44,8 +44,8 @@ func input(templete: inout EFTemplete) {
     templete.pageDescription.set("EyreFree 的个人简历")
 
     // 基本信息
-    templete.name.set("EyreFree")
-    templete.description.set("普通的 iOS 开发")
+    templete.name.set("Yegor Afanasenko")
+    templete.description.set("Senior iOS developer")
     templete.basicInfo.set(
         [
             "基本信息": [
